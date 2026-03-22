@@ -341,7 +341,7 @@ Output ONLY the complete HTML starting with <!DOCTYPE html>.`
 export async function generateLandingPage(data: WizardData): Promise<string> {
   const message = await client.messages.create({
     model: 'claude-sonnet-4-6',
-    max_tokens: 16000,
+    max_tokens: 10000,
     system: buildSystemPrompt(),
     messages: [{ role: 'user', content: buildUserPrompt(data) }],
   })
