@@ -9,7 +9,7 @@ import { CtaSection } from '@/components/marketing/CtaSection'
 import { SiteFooter } from '@/components/marketing/SiteFooter'
 
 export const metadata = {
-  title: 'Forja — Créez votre landing page par IA en 60 secondes',
+  title: 'Forja Créez votre landing page par IA en 60 secondes',
   alternates: { canonical: '/' },
 }
 

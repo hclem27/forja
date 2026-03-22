@@ -11,7 +11,7 @@ const INCLUDED = [
   'Animations de défilement fluides',
   'Balises SEO meta',
   'Fichier ZIP prêt à télécharger',
-  'Hébergez partout — vous possédez le code',
+  'Hébergez partout vous possédez le code',
   'Accès à vie à votre fichier',
 ]
 

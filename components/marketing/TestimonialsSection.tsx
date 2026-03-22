@@ -16,7 +16,7 @@ const TESTIMONIALS = [
     color: 'bg-orange-500',
   },
   {
-    quote: "Mon restaurant a enfin un vrai site. J'ai décrit l'ambiance que je voulais et c'était exactement ça — les images, les couleurs, tout. Vraiment rentable.",
+    quote: "Mon restaurant a enfin un vrai site. J'ai décrit l'ambiance que je voulais et c'était exactement ça les images, les couleurs, tout. Vraiment rentable.",
     name: 'Marie L.',
     role: 'Restauratrice',
     initials: 'ML',

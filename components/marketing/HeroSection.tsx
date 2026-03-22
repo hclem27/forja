@@ -70,7 +70,7 @@ export function HeroSection() {
 
         <p className="fade-in-3 text-xl text-gray-500 max-w-2xl mx-auto mb-10 leading-relaxed">
           Répondez à quelques questions sur votre business. Notre IA rédige le contenu, sélectionne les images
-          et conçoit une page qui convertit — sur mesure pour vous.
+          et conçoit une page qui convertit sur mesure pour vous.
         </p>
 
         {/* CTAs */}

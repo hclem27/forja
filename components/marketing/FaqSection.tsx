@@ -3,11 +3,11 @@ import { AnimateIn } from '@/components/ui/AnimateIn'
 const FAQS = [
   {
     q: 'Dois-je payer avant de voir ma landing page ?',
-    a: "Non — vous renseignez vos informations, l'IA génère votre page, et vous pouvez prévisualiser le résultat complet avant de décider de payer. Le paiement n'est requis que pour télécharger les fichiers.",
+    a: "Non vous renseignez vos informations, l'IA génère votre page, et vous pouvez prévisualiser le résultat complet avant de décider de payer. Le paiement n'est requis que pour télécharger les fichiers.",
   },
   {
     q: 'Puis-je modifier le HTML après le téléchargement ?',
-    a: "Absolument. Vous recevez un HTML et CSS propres et bien structurés que vous pouvez modifier dans n'importe quel éditeur de texte. C'est votre code — faites-en ce que vous voulez.",
+    a: "Absolument. Vous recevez un HTML et CSS propres et bien structurés que vous pouvez modifier dans n'importe quel éditeur de texte. C'est votre code faites-en ce que vous voulez.",
   },
   {
     q: 'Suis-je propriétaire des images et des polices ?',
@@ -27,7 +27,7 @@ const FAQS = [
   },
   {
     q: 'Puis-je générer plusieurs pages ?',
-    a: "Oui — chaque génération est un achat séparé à 29€. Vous pouvez créer autant de landing pages différentes que vous le souhaitez.",
+    a: "Oui chaque génération est un achat séparé à 29€. Vous pouvez créer autant de landing pages différentes que vous le souhaitez.",
   },
 ]
 
