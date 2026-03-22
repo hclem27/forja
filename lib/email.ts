@@ -1,7 +1,5 @@
 import { Resend } from 'resend'
 
-const resend = new Resend(process.env.RESEND_API_KEY)
-
 export async function sendPreviewEmail({
   to,
   businessName,
@@ -13,6 +11,7 @@ export async function sendPreviewEmail({
 }) {
   const previewUrl = `${process.env.NEXT_PUBLIC_BASE_URL}/preview/${sessionId}`
 
+  const resend = new Resend(process.env.RESEND_API_KEY)
   await resend.emails.send({
     from: 'Forja.ai <onboarding@resend.dev>',
     to,
